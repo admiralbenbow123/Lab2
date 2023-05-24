@@ -1,0 +1,5 @@
+echo off
+md slesarev
+cd slesarev
+md slesarev
+md artem
